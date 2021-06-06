@@ -19,4 +19,4 @@
 
 ## Screenshot
 
-<img src="https://i.ibb.co/F5X12wS/Screenshot-2021-06-06-12-29-06.png" alt="Screenshot-2021-06-06-12-29-06" width=500>
+<img src="https://i.ibb.co/c6w90FG/Screenshot-2021-06-06-12-29-06.png" alt="Screenshot-2021-06-06-12-29-06" width=500>

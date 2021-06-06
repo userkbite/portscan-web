@@ -5,6 +5,7 @@
 ## Techs
 
 * [Python](https://www.python.org/): Linguagem de programação de sintaxe simples;
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/): Microframework simples e rápido;
 
 ## Como utilizar?
 

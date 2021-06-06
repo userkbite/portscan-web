@@ -8,7 +8,7 @@
 
 ## Como utilizar?
 
-<div align="center">
+<div>
 * git clone https://github.com/user-kbite/portscan-web
 * cd portscan-web
 * pip install -r requirements.txt

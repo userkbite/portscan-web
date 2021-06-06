@@ -9,9 +9,9 @@
 ## Como utilizar?
 
 <div>
-* git clone https://github.com/user-kbite/portscan-web
-* cd portscan-web
-* pip install -r requirements.txt
-* python3 app.py
-* Acesse http://127.0.0.1:5000
+* git clone https://github.com/user-kbite/portscan-web<br>
+* cd portscan-web<br>
+* pip install -r requirements.txt<br>
+* python3 app.py<br>
+* Acesse http://127.0.0.1:5000<br>
 </div>

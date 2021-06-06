@@ -16,3 +16,7 @@
 * python3 app.py<br>
 * Acesse http://127.0.0.1:5000<br>
 </div>
+
+## Screenshot
+
+<a href="https://ibb.co/F5X12wS"><img src="https://i.ibb.co/F5X12wS/Screenshot-2021-06-06-12-29-06.png" alt="Screenshot-2021-06-06-12-29-06" border="0"></a>

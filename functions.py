@@ -1,5 +1,4 @@
 import socket
-import array as arr
 
 def portScan(ip):
     ports = []
@@ -10,10 +9,7 @@ def portScan(ip):
         connect = s.connect_ex((ip, i))
         if connect == 0:
             ports.append(i)
-            #return str(i) + ' >>> OPEN'
         else:
             pass
-            #print(i, '>>> CLOSED')
-        #print(i)
     return ports
     print('Finish !')

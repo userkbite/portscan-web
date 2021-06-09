@@ -16,4 +16,4 @@ def send_data():
     return render_template('index.html', ip=ip)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

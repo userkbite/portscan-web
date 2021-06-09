@@ -10,7 +10,6 @@ def index():
 @app.route('/send_data', methods=['POST'])
 def send_data():
     ip_form = request.form['ip']
-    
     ip = portScan(ip_form)
     
     return render_template('index.html', ip=ip)
